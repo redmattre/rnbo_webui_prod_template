@@ -23,5 +23,5 @@ nome_progetto/
 │   ├── Plugin.cmake
 │   └──  README.md
 ├── max-original-code/
-│   └──  ronbo_examples/  # Progetto Max con esempi di RNBO patcher
+    └──  ronbo_examples/  # Progetto Max con esempi di RNBO patcher
 ```
