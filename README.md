@@ -22,6 +22,6 @@ nome_progetto/
 │   ├── CUSTOM_UI.md
 │   ├── Plugin.cmake
 │   └──  README.md
-├── max-original-code/
+└──  max-original-code/
     └──  ronbo_examples/  # Progetto Max con esempi di RNBO patcher
 ```
