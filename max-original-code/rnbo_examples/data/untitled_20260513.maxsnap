@@ -1,0 +1,18 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "untitled",
+	"origin" : "b6aea195-4ec8-11f1-a195-c2203eef32b6",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 1,
+	"snapshot" : 	{
+		"Velocità" : 		{
+			"value" : 1.0
+		}
+,
+		"__presetid" : "b6aea195-4ec8-11f1-a195-c2203eef32b6"
+	}
+
+}

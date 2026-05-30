@@ -1,0 +1,30 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "untitled",
+	"origin" : "21c2f10d-5148-11f1-b10d-c2203eef32b6",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 1,
+	"snapshot" : 	{
+		"Sensibilita" : 		{
+			"value" : 1.0
+		}
+,
+		"Attacco" : 		{
+			"value" : 0.0
+		}
+,
+		"verso" : 		{
+			"value" : 0.0
+		}
+,
+		"Decadimento" : 		{
+			"value" : 1.0
+		}
+,
+		"__presetid" : "21c2f10d-5148-11f1-b10d-c2203eef32b6"
+	}
+
+}
