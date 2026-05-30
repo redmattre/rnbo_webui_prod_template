@@ -11,14 +11,17 @@ nome_progetto/
 ├── rnbo.example.juce/                                  
 │   ├── .github/
 │   ├── build/
-│   ├── export/
+│   ├── export/  # Cartella che conterrà export rnbo
 │   ├── img/
 │   ├── patches/
 │   ├── src/
+│       └──  webui/  # Cartella che contiene la webui
 │   ├── thirdparty/
 │   ├── App.cmake
 │   ├── CMakeLists.txt
 │   ├── CUSTOM_UI.md
 │   ├── Plugin.cmake
 │   ├── README.md
+├── max-original-code/
+│   ├── ronbo_examples/  # Progetto Max con esempi di RNBO patcher
 ```
