@@ -15,7 +15,7 @@ nome_progetto/
 │   ├── img/
 │   ├── patches/
 │   ├── src/
-│       └──  webui/  # Cartella che contiene la webui
+│   |   └──  webui/  # Cartella che contiene la webui
 │   ├── thirdparty/
 │   ├── App.cmake
 │   ├── CMakeLists.txt
